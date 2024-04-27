@@ -10,6 +10,8 @@ This dataset is released [under the Creative Common License CC BY-NC-ND](https:/
 
 
 ### Citation 
+[Paper](https://ieeexplore.ieee.org/abstract/document/10124393)
+
 > @ARTICLE{10124393,\
 >  author={Sarkar, Argho and Chowdhury, Tashnim and Murphy, Robin Roberson and Gangopadhyay, Aryya and Rahnemoonfar, Maryam},\
 > journal={IEEE Transactions on Geoscience and Remote Sensing}, \
@@ -20,6 +22,7 @@ This dataset is released [under the Creative Common License CC BY-NC-ND](https:/
 >  pages={1-16},\
 >  doi={10.1109/TGRS.2023.3276293}}
 
+[Paper](https://ieeexplore.ieee.org/abstract/document/9460988)
 
 >@ARTICLE{9460988,\
  > author={Rahnemoonfar, Maryam and Chowdhury, Tashnim and Sarkar, Argho and Varshney, Debvrat and Yari, Masoud and Murphy, Robin Roberson},\
