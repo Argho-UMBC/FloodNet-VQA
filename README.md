@@ -5,8 +5,8 @@ FloodNet-VQA dataset can be found [here](https://drive.google.com/drive/folders/
 ### FloodNet-VQA Dataset
 ![FloodNet-VQA Dataset](floodnet.png)
 
-
-
+### License
+This dataset is released [under the Creative Common License CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
 ### Citation 
